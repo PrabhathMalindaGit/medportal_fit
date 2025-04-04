@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686446041753",
+    "project_id": "medportal-6d1e4",
+    "storage_bucket": "medportal-6d1e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686446041753:android:0039cfff10ac235fc7b608",
+        "android_client_info": {
+          "package_name": "com.portal.fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0phO3UOwMyGJ8_ONtdupp-CV7LKZ1xkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
